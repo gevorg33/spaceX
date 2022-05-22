@@ -1,0 +1,8 @@
+enum Types {
+  SET_COMPANIES = 'SET_COMPANIES',
+  UPDATE_BOXES = 'UPDATE_BOXES',
+  UPDATE_QUERY = 'UPDATE_QUERY',
+  BURGER_MENU = 'BURGER_MENU',
+}
+
+export default Types
